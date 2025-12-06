@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Node / React
+web/**/node_modules/
+web/**/dist/
+web/**/.vite/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# (opcjonalnie) jeśli miałbyś pliki lokalne z konfiguracją
+.env
+.venv/
+.venv/
+web/**/node_modules/
